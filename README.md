@@ -1,27 +1,27 @@
-# GladosChat
+# GladosChatAngular :robot: :gear:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+Fala galera, gostaria de compartilhar esse novo projeto: A tutora Glados.
 
-## Development server
+A Glados é uma chatbot desenvolvido utilizando os recursos do IBM Watson. Sua função é ensinar alunos conceitos básicos de lógica de programação.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<hr>
 
-## Code scaffolding
+Sua metodologia consiste da seguinte forma:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Primeiro ela dá o conceito principal do assunto.
+2. Caso o usuário não entenda de primeira, ela mostra o assunto de uma outra forma por meio de um exemplo.
+3. Se ainda assim não tiver claro, ela encaminha um link de referência como ultimo recurso.
+4. Caso o usuário entenda o assunto, ela convida o usuário a fazer um pequeno teste. No final ela recebe o resultado.
 
-## Build
+<hr>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+No momento a Glados aborda os seguintes tópicos:
 
-## Running unit tests
+* Estruturas condicionais
+* Estruturas de repetição
+* Vetores
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Forte abraço! :smile:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
