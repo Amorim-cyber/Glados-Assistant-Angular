@@ -12,6 +12,7 @@ window.onload = function(){
         showLauncher: false,
         // Make the window open by default.
         openChatByDefault: true,
+        disableCustomElementMobileEnhancements: true,
         onLoad: function(instance) { instance.render(); }
         };
     setTimeout(function(){

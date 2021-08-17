@@ -114,13 +114,6 @@ html, body, .main {
       width: 250px;
   }
 
-  #WACContainer.WACContainer.WACContainer-isPhone{
-    --WatsonAssistantChat-viewport-height: 350px;
-    --WatsonAssistantChat-viewport-width: 320px;
-    --WatsonAssistantChat-viewport-offsetTop: 209px;
-    --WatsonAssistantChat-viewport-offsetLeft: 21px;
-  }
-
 }
 
 
