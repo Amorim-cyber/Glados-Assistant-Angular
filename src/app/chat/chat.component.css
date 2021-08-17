@@ -1,3 +1,10 @@
+
+
+
+#WACContainer, :root {
+  --WatsonAssistantChat-BASE-width: 200px;
+}
+
 html, body, .main {
   height: 100%;
   width: 100%;
@@ -106,6 +113,14 @@ html, body, .main {
   .right{
       width: 250px;
   }
+
+  #WACContainer.WACContainer.WACContainer-isPhone{
+    --WatsonAssistantChat-viewport-height: 350px;
+    --WatsonAssistantChat-viewport-width: 320px;
+    --WatsonAssistantChat-viewport-offsetTop: 209px;
+    --WatsonAssistantChat-viewport-offsetLeft: 21px;
+  }
+
 }
 
 
