@@ -23,5 +23,9 @@ No momento a Glados aborda os seguintes tópicos:
 
 
 
+**LINK DA PÁGINA:** https://amorim-cyber.github.io/Glados-Assistant-Angular/
+
+
+
 ### Forte abraço! :smile:
 

@@ -8,7 +8,7 @@ html, body, .main {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  background: url(/assets/img/insideship.jpg);
+  background: url(src/assets/img/insideship.jpg);
 }
 .left{
   width: 400px;
